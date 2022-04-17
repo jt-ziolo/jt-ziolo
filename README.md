@@ -1,15 +1,18 @@
 <p align="center">
 <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
 </p>
-<!--
+
 <div id="badges">
   <p align="center">
     <a href="https://www.linkedin.com/in/jziolo">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="https://dev.to/jt_ziolo">
+      <img src="https://img.shields.io/badge/DEV-black?style=for-the-badge&logo=dev&logoColor=black" alt="Dev.to Badge"/>
+    </a>
   </p>
 </div>
--->
+
 <!-- Profile views counter: ![](https://komarev.com/ghpvc/?username=jt-ziolo&style=flat-square) -->
 <br>
 <h1 align="center"> Hi there! 👋 </h1>
@@ -44,6 +47,8 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jt-ziolo&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jt-ziolo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<i>Note: Most Used Languages is only a metric of the languages my public code consists of and doesn't reflect my experience or current skill level.</i>
 
 <!--
 **jt-ziolo/jt-ziolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

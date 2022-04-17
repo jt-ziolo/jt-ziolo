@@ -16,8 +16,8 @@
 
 ### About Me:
 - Contributing to open source projects 💯
-- Technical/engineering background 🚀
-- Life-long learner 📚
+- Engineering background 👨‍🔬
+- Lifelong learner 📚
 
 ---
 

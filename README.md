@@ -4,9 +4,11 @@
 
 <div id="badges">
   <p align="center">
+    <!-- No need for linktree yet, still debating having one
     <a href="https://linktr.ee/jt_ziolo">
       <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree Badge"/>
     </a>
+    --!>
     <!-- <a href="https://www.linkedin.com/in/jziolo">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>

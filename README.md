@@ -47,7 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>
 </p>
 
-
+<!-- Disabling stats for now, since it doesn't seem to update based on contributions to private repos
 ---
 
 ### My Stats:
@@ -56,6 +56,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jt-ziolo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <i>Note: Most Used Languages is only a metric of the languages my public code consists of and doesn't reflect my experience or current skill level.</i>
+
+--!>
 
 <!--
 **jt-ziolo/jt-ziolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

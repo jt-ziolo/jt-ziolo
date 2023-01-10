@@ -23,9 +23,9 @@
 <h1 align="center"> Hi there! 👋 </h1>
 
 ### About Me:
-- Contributing to open source projects 💯
 - Engineering background 👨‍🔬
 - Lifelong learner 📚
+- Currently learning Full Stack Web Development 🌱
 
 ---
 

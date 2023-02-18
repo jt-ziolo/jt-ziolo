@@ -23,15 +23,17 @@
 <h1 align="center"> Hi there! 👋 </h1>
 
 ### About Me:
-- Engineering background 👨‍🔬
-- Lifelong learner 📚
+- Engineering background with Minor in Computer Science 👨‍🔬
+- Moving toward career in programming 📚
 - Currently learning Full Stack Web Development 🌱
 
 ---
 
 ### Languages and Tools:
+- Proficient with C#, Python, JavaScript/TypeScript, CSS, HTML5
+- I enjoy learning about new tools and languages, and have experimented with Rust, GDScript, and Haxe
 
-<p>
+<p align = center>
   <!-- Web Dev -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp;

@@ -33,7 +33,6 @@
 - Proficient with C#, JavaScript/TypeScript/CSS/HTML, Rust, Python
 - I enjoy learning about new tools and languages
 - Experimented with various languages in coursework and personal projects: C++, Java, Haxe, Haskell
-- Web Development frameworks and tools I've used: 
 
 <p align = center>
   <!-- Web Dev -->

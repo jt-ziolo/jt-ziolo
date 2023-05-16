@@ -23,15 +23,17 @@
 <h1 align="center"> Hi there! 👋 </h1>
 
 ### About Me:
-- Engineering background with Minor in Computer Science 👨‍🔬
-- Moving toward career in programming 📚
-- Currently learning Full Stack Web Development 🌱
+- Chemical Engineering background with Minor in Computer Science 👨‍🔬
+- Long-time passionate programmer now moving toward a career in Software Engineering 📚
+- Currently learning Full Stack Web Development (PERN, React/Redux, Next, Express, PostgreSQL) 🌱
 
 ---
 
 ### Languages and Tools:
-- Proficient with C#, Python, JavaScript/TypeScript, CSS, HTML5
-- I enjoy learning about new tools and languages, and have experimented with Rust, GDScript, and Haxe
+- Proficient with C#, JavaScript/TypeScript/CSS/HTML, Rust, Python
+- I enjoy learning about new tools and languages
+- Experimented with various languages in coursework and personal projects: C++, Java, Haxe, Haskell
+- Web Development frameworks and tools I've used: 
 
 <p align = center>
   <!-- Web Dev -->

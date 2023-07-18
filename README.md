@@ -2,65 +2,48 @@
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
 </p>
 
-<div id="badges">
-  <p align="center">
-    <a href="https://www.linkedin.com/in/jziolo">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://dev.to/jt_ziolo">
-      <img src="https://img.shields.io/badge/DEV-black?style=for-the-badge&logo=dev&logoColor=black" alt="Dev.to Badge"/>
-    </a>
-  </p>
-</div>
-
 <!-- Profile views counter: ![](https://komarev.com/ghpvc/?username=jt-ziolo&style=flat-square) -->
 <br>
 <h1 align="center"> Hi there! 👋 </h1>
 
-### About Me:
-- Chemical Engineering background with Minor in Computer Science 👨‍🔬
-- Long-time passionate programmer now moving toward a career in Software Engineering 📚
-- Currently learning Full Stack Web Development (PERN, React/Redux, Next, Express, PostgreSQL) 🌱
+Read more about me on my portfolio website [here](https://telomericweb.com). (WIP)
 
 ---
 
 ### Languages and Tools:
-- Proficient with C#, JavaScript/TypeScript/CSS/HTML, Python <!-- Add Rust when ready -->
-- I enjoy learning about new tools and languages
-- Have experimented with various languages in coursework and personal projects: C++, Java, Haxe, Haskell
+- Frontend: HTML, CSS, JavaScript, TypeScript, React/Next.js.
+- Backend: C# (ASP.NET Core), MySQL, PostgreSQL.
+- I've previously used Python in a professional context for scientific analysis.
+- I've used many other languages besides those listed, but do not consider myself to still be familiar with them.
 
-<p align=left>
+---
+
+<p align="left">
   <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
-  <!-- TODO: add when ready <img src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-64x64.png" title="Rust" alt="Rust" width="40" height="40"/>&nbsp; -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="typescript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <br>
-  <!-- Web Dev -->
+  &nbsp;&nbsp;&nbsp;
+  <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="typescript" width="40" height="40"/>&nbsp;
-  <!-- TODO: add when ready <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp; -->
-  <!-- TODO: add when ready <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp; -->
-  <!-- TODO: add when ready <picture>
-    <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" width="40" height="40">
-  </picture>&nbsp; -->
-  <!-- TODO: Add express <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="40" height="40"/>&nbsp; -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <br>
-  <!-- Other Web Dev -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp; -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" width="40" height="40"/>&nbsp;
+  &nbsp;&nbsp;&nbsp;
+  <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title="dotNET" alt="dotNET" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="40" height="40"/>&nbsp;
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" title="pytest" alt="pytest" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp; -->
-  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" title="vim" alt="vim" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
+  &nbsp;&nbsp;&nbsp;
+  <!-- Design Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/> -->
 </p>
 
 <i>For a longer list of open-source tools that I use, see [my starred repos](https://github.com/jt-ziolo?tab=stars).</i>

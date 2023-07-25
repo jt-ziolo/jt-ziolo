@@ -53,9 +53,16 @@
 
 ### My Stats (Public Repos Only):
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jt-ziolo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jt-ziolo&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jt-ziolo&layout=donut&theme=tokyonight" />
+</a>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jt-ziolo&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
 <i>Note: Most Used Languages is only a metric of the languages my public code consists of and doesn't reflect my experience or current skill level.</i>
 

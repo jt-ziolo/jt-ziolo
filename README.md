@@ -1,12 +1,13 @@
-<p align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
-</p>
 
 <!-- Profile views counter: ![](https://komarev.com/ghpvc/?username=jt-ziolo&style=flat-square) -->
 <br>
-<h1 align="center"> Hi there! 👋 </h1>
+<h1> Hi there! 👋 </h1>
 
-Read more about me on my portfolio website [here](https://telomericweb.com). (WIP)
+<!-- Read more about me on my portfolio website [here](https://telomericweb.com). -->
+
+</div>
 
 ---
 

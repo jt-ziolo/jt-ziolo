@@ -14,7 +14,7 @@
 ### Languages and Tools:
 - Frontend: HTML, CSS, JavaScript, TypeScript, React/Next.js.
 - Backend: C# (ASP.NET Core), MySQL, PostgreSQL.
-- I've previously used Python in a professional context for scientific analysis.
+- DevOps: Python. I've also used Python for scientific analysis.
 - I've used many other languages besides those listed, but do not consider myself to still be familiar with them.
 
 ---

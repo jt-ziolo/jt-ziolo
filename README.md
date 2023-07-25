@@ -51,7 +51,7 @@
 
 ---
 
-### My Stats:
+### My Stats (Public Repos Only):
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jt-ziolo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 

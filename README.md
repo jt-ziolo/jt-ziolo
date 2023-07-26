@@ -19,7 +19,7 @@
 
 ---
 
-<p align="left">
+<p align="center">
   <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="typescript" width="40" height="40"/>&nbsp;
@@ -47,7 +47,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 </p>
 
-<i>For a longer list of open-source tools that I use, see [my starred repos](https://github.com/jt-ziolo?tab=stars).</i>
+<div align="center">
+<i>For a longer list of open-source tools that I use, see <a href="https://github.com/jt-ziolo?tab=stars">my starred repos</a>.</i>
+</div>
 
 ---
 

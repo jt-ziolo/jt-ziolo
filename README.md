@@ -51,11 +51,12 @@
 <i>For a longer list of open-source tools that I use, see <a href="https://github.com/jt-ziolo?tab=stars">my starred repos</a>.</i>
 </div>
 
----
-
 ### My Stats (Public Repos Only):
 
-<div align="center">
+Unfortunately, the service I previously used for this section is currently experiencing issues. I am working on finding an alternative solution, please check back later. Thanks!
+
+
+<!-- <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jt-ziolo&show_icons=true&theme=tokyonight" />
 </a>
@@ -66,20 +67,4 @@
 
 <br>
 
-<i>Note: Most Used Languages is only a metric of the languages my public code consists of and doesn't reflect my experience or current skill level.</i>
-
-
-<!--
-**jt-ziolo/jt-ziolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<i>Note: Most Used Languages is only a metric of the languages my public code consists of and doesn't reflect my experience or current skill level.</i> -->

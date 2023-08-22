@@ -53,10 +53,9 @@
 
 ### My Stats (Public Repos Only):
 
-Unfortunately, the service I previously used for this section is currently experiencing issues. I am working on finding an alternative solution, please check back later. Thanks!
+<!-- Unfortunately, the service I previously used for this section is currently down. I am working on finding an alternative solution, please check back later. Thanks! -->
 
-
-<!-- <div align="center">
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jt-ziolo&show_icons=true&theme=tokyonight" />
 </a>
@@ -67,4 +66,4 @@ Unfortunately, the service I previously used for this section is currently exper
 
 <br>
 
-<i>Note: Most Used Languages is only a metric of the languages my public code consists of and doesn't reflect my experience or current skill level.</i> -->
+<i>Note: Most Used Languages is only a metric of the languages my public code consists of and doesn't reflect my experience or current skill level.</i>

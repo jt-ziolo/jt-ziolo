@@ -15,6 +15,7 @@
 - Frontend: HTML, CSS, JavaScript, TypeScript, React/Next.js.
 - Backend: C# (ASP.NET Core), MySQL, PostgreSQL.
 - DevOps: Python, Bash, GitHub Actions. I've also used Python for scientific analysis.
+- Cloud Platforms: Microsoft Azure, Google Cloud
 - I've used many other languages besides those listed, but do not consider myself to still be familiar with them.
 
 ---
@@ -34,7 +35,7 @@
   &nbsp;&nbsp;&nbsp;
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title="dotNET" alt="dotNET" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp; -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   &nbsp;&nbsp;&nbsp;

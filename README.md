@@ -12,10 +12,10 @@
 ---
 
 ### Languages and Tools:
-- Frontend: HTML, CSS, JavaScript, TypeScript, React/Next.js.
-- Backend: C# (ASP.NET Core), MySQL, PostgreSQL.
-- DevOps: Python, Bash, GitHub Actions. I've also used Python for scientific analysis.
-- Cloud Platforms: Microsoft Azure, Google Cloud
+- Frontend: TypeScript, React/Next.js, Astro, HTML, CSS, JavaScript
+- Backend: TypeScript (tRPC), Python, PostgreSQL
+- DevOps: Python, Bash, GitHub Actions
+- Cloud Platforms: Amazon AWS, Microsoft Azure, Google Cloud
 - I've used many other languages besides those listed, but do not consider myself to still be familiar with them.
 
 ---

@@ -12,9 +12,9 @@
 ---
 
 ### Languages and Tools:
-- Frontend: TypeScript, React/Next.js, Astro, HTML, CSS, JavaScript
-- Backend: TypeScript (tRPC), Python, PostgreSQL
-- DevOps: Python, Bash, GitHub Actions
+- Frontend: TypeScript, React/Next.js, HTML, CSS, JavaScript
+- Backend: C#/ASP.NET Core, PostgreSQL
+- DevOps: Python, Bash, GitHub Actions, Bitbucket Pipelines, HashiCorp Key Vault
 - Cloud Platforms: Amazon AWS, Microsoft Azure, Google Cloud
 - I've used many other languages besides those listed, but do not consider myself to still be familiar with them.
 

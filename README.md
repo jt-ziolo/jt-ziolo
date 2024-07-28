@@ -13,13 +13,13 @@ Read more about me on my portfolio website [here](https://ziolojt.com).
 ---
 
 ### Languages and Tools:
-- Programming Languages: Python, C#/.NET, JavaScript/TypeScript, HTML, CSS
-- Frameworks and Libraries: React, Next.js App Router, Astro, TailwindCSS
-- Databases: DynamoDB (NoSQL), PostgreSQL, ElastiCache (Redis, Memcached)
-- DevOps: Python, Bash, GitHub Actions, Bitbucket Pipelines, HashiCorp Key Vault
-- AWS Certified: Cloud Practitioner, SysOps Administrator Associate
+- **Programming Languages:** Python, C#/.NET, JavaScript/TypeScript, HTML, CSS
+- **Frameworks and Libraries:** React, Next.js App Router, Astro, TailwindCSS
+- **Databases:** DynamoDB (NoSQL), PostgreSQL, ElastiCache (Redis, Memcached)
+- **DevOps:** Python, Bash, GitHub Actions, Bitbucket Pipelines, HashiCorp Key Vault
+- **AWS Certified:** Cloud Practitioner, SysOps Administrator Associate
 - Containerization via Docker
-- IDE: VS Code with Neovim extension
+- VS Code with Neovim extension
 - Misc Tool Shoutouts: Linux Mint, Anki, Obsidian, Figma
 ---
 

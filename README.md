@@ -5,27 +5,30 @@
 <br>
 <h1> Hi there! 👋 </h1>
 
-<!-- Read more about me on my portfolio website [here](https://telomericweb.com). -->
+I am primarily interested in Automation, System Administration, JS/TS Frontend Development, and Graphics Programming.
+Read more about me on my portfolio website [here](https://ziolojt.com).
 
 </div>
 
 ---
 
 ### Languages and Tools:
-- Frontend: TypeScript, React/Next.js, HTML, CSS, JavaScript
-- Backend: C#/ASP.NET Core, PostgreSQL
+- Programming Languages: Python, C#/.NET, JavaScript/TypeScript, HTML, CSS
+- Frameworks and Libraries: React, Next.js App Router, Astro, TailwindCSS
+- Databases: DynamoDB (NoSQL), PostgreSQL, ElastiCache (Redis, Memcached)
 - DevOps: Python, Bash, GitHub Actions, Bitbucket Pipelines, HashiCorp Key Vault
-- Cloud Platforms: Amazon AWS, Microsoft Azure, Google Cloud
-- I've used many other languages besides those listed, but do not consider myself to still be familiar with them.
-
+- AWS Certified: Cloud Practitioner, SysOps Administrator Associate
+- Containerization via Docker
+- IDE: VS Code with Neovim extension
+- Misc Tool Shoutouts: Linux Mint, Anki, Obsidian, Figma
 ---
 
 <p align="center">
   <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="typescript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   &nbsp;&nbsp;&nbsp;
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
@@ -34,8 +37,6 @@
   <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" width="40" height="40"/>&nbsp;
   &nbsp;&nbsp;&nbsp;
   <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title="dotNET" alt="dotNET" width="40" height="40"/>&nbsp;
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp; -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   &nbsp;&nbsp;&nbsp;

@@ -6,6 +6,7 @@
 <h1> Hi there! 👋 </h1>
 
 I am primarily interested in Automation, System Administration, JS/TS Frontend Development, and Graphics Programming.
+
 Read more about me on my portfolio website [here](https://ziolojt.com).
 
 </div>
